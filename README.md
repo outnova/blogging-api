@@ -154,3 +154,6 @@ Inicia la aplicación FastAPI usando su comando de desarrollo:
 
 ```bash
 fastapi dev main.py
+```
+
+https://roadmap.sh/projects/blogging-platform-api
